@@ -8,11 +8,11 @@ namespace puzzles
     {
         static void Main(string[] args)
         {
-            RandomArray();
-            Console.WriteLine("Tossing A Coin!");
-            TossCoin();
+            // RandomArray();
+            // Console.WriteLine("Tossing A Coin!");
+            // TossCoin();
             TossMultipleCoins(50);
-            Names();
+            // Names();
         }
         public static void RandomArray()
         {
@@ -55,8 +55,8 @@ namespace puzzles
             Random rand = new Random();
             for (int i = 0; i < num; i++)
             {
-                int coin = rand.Next(5, 5000);
-                if (coin % 2 == 0)
+                int coin = rand.Next(1, 3);
+                if (coin == 1)
                 {
                     heads++;
                 }
