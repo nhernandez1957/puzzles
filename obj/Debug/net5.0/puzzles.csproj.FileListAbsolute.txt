@@ -1,0 +1,15 @@
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/bin/Debug/net5.0/puzzles.deps.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/bin/Debug/net5.0/puzzles.runtimeconfig.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/bin/Debug/net5.0/puzzles.runtimeconfig.dev.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/bin/Debug/net5.0/puzzles.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/bin/Debug/net5.0/ref/puzzles.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/bin/Debug/net5.0/puzzles.pdb
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.csproj.AssemblyReference.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.AssemblyInfoInputs.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.AssemblyInfo.cs
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.csproj.CoreCompileInputs.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/ref/puzzles.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.pdb
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/puzzles/obj/Debug/net5.0/puzzles.genruntimeconfig.cache
